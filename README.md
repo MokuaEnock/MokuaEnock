@@ -8,7 +8,7 @@ I have a strong background in mathematics and physics therefore if i told you I 
 
 # ✍️ What I am learning ✍️
 
-I am currently a student at [Moringa School](https://www.google.com/aclk?sa=l&ai=DChcSEwjYyJ_Zquf4AhVs_HcKHWbZAjsYABAAGgJlZg&ae=2&sig=AOD64_2A1g9rpMFvFBOX-BjljP7QXnATFg&q&adurl&ved=2ahUKEwjS7JfZquf4AhV1hP0HHSBwAnoQ0Qx6BAgDEAE) learning software development.
+I am currently a student at [Moringa School](https://www.google.com/aclk?sa=l&ai=DChcSEwjYyJ_Zquf4AhVs_HcKHWbZAjsYABAAGgJlZg&ae=2&sig=AOD64_2A1g9rpMFvFBOX-BjljP7QXnATFg&q&adurl&ved=2ahUKEwjS7JfZquf4AhV1hP0HHSBwAnoQ0Qx6BAgDEAE) software software development.
 
 
 # Why I am Learning what I am Learning
