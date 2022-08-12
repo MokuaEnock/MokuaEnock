@@ -20,3 +20,5 @@ You can connect with me on
 [Twitter](https://twitter.com/254_enok) ||
 [LinkedIn](https://www.linkedin.com/in/enockmokua/) ||
 [Kaggle](https://www.kaggle.com/enockmokua)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MokuaEnock)](https://github.com/anuraghazra/github-readme-stats)
