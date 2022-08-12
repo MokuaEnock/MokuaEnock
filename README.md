@@ -21,4 +21,4 @@ You can connect with me on
 [LinkedIn](https://www.linkedin.com/in/enockmokua/) ||
 [Kaggle](https://www.kaggle.com/enockmokua)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MokuaEnock)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MokuaEnock&show_icons=true&theme=radical)
