@@ -3,11 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AB332&center=true&width=435&lines=Full-Stack+development.;Machine+Learning+)](https://git.io/typing-svg)
 
-<h2><a href="url"><img src="/fire.gif" align="left" height="48" width="48" >My streak stats</a></h2>
+<h2 style="color:green"><img src="/fire.gif" width="35" height="35"/> My streak stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MokuaEnock&theme=merko)](https://git.io/streak-stats)
 
-## :computer: My favorite tools.
+<h2 style="color:green"><img src="/hammer-and-wrench-objects.gif" width="35" height="35"/> My tools of trade</h2>
 
 #### :: Programming and Markup languages
 
