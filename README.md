@@ -1,6 +1,6 @@
-#### 👋 Hey I am Enock Mokua 😄
+## 👋 Welcome Enock's profile 😄
 
-##  Welcome to my Github
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AB332&center=true&width=435&lines=Full-Stack+development.;Machine+Learning+)](https://git.io/typing-svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MokuaEnock&theme=merko)](https://git.io/streak-stats)
 
