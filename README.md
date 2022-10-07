@@ -1,5 +1,7 @@
 <h2 style="color:green"><img src="/hey.gif" width="30" height="30"/> <strong>Jambo</strong> Welcome to Enock' profile</h2>
 
+![Viewers](https://gpvc.arturio.dev/MokuaEnock)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=Full-stack+development;Machine+Learning)](https://git.io/typing-svg)
 
 <h2 style="color:green"><img src="/fire.gif" width="35" height="35"/> My streak stats</h2>
