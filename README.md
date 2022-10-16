@@ -11,9 +11,8 @@
 <h2 style="color:green"><img src="/hammer-and-wrench-objects.gif" width="35" height="35"/> My tools of trade</h2>
 
 #### Languages and Modules
+
 <img alt="medium" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-
-
 
 ---
 
@@ -24,18 +23,90 @@
 ---
 
 ### Database and cloud hosting
+
 <img alt="medium" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-
 #### Software and tools
+
 <img alt="medium" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 
 </br>
 
 #### Community and Blogs
+
 <img  alt="medium" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /><img  alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /><img  alt="medium" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /><img  alt="medium" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /><img  alt="medium" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
 
 </br>
+
+## My Top Projects
+
+<style>
+    .projects{
+        border: thin solid black;
+        width:100%;
+        height: max-content;
+        display:grid;
+        grid-template-columns:repeat(4, 20%);
+        column-gap:2.5vw;
+        row-gap:2.5vw;
+
+    }
+
+    .project{
+        border: thin solid black;
+        height:20vw;
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        justify-content:space-evenly;
+
+    }
+    .project>*{
+        border: thin solid black;
+        align-items:center;
+        display:flex;
+        width:100%;
+    }
+    .header{
+        width:100%;
+        height:20%;
+    }
+    .body{
+        width:100%;
+        height:60%;
+    }
+    .footer{
+        width:100%;
+        height:20%;
+        justify-content:space-evenly;
+        background:teal;
+    }
+    .footer>*{
+        width:45%;
+        height:90%;
+        border: thin solid black;
+        font-size:1.3vw;
+        background-color:white;
+    }
+</style>
+
+<div class="projects">
+<div class="project">
+<span class="header"></span>
+<span class="body"></span>
+<span class="footer">
+<button>Live Site</button>
+<button>View Code</button>
+</span>
+</div>
+
+<div class="project"></div>
+<div class="project"></div>
+<div class="project"></div>
+<div class="project"></div>
+<div class="project"></div>
+
+</div>
 
 ## My Github stats
 
@@ -48,4 +119,5 @@
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Github contribution graph
+
 [![Enock's github activity graph](https://activity-graph.herokuapp.com/graph?username=MokuaEnock&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
