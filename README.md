@@ -10,7 +10,6 @@
 
 <h2 style="color:green"><img src="/hammer-and-wrench-objects.gif" width="35" height="35"/> My tools of trade</h2>
 
-## Top projects.
 
 #### Languages and Modules
 
