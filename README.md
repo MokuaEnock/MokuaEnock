@@ -20,6 +20,53 @@
 
 🌱 I’m currently developing **open-source software for iTalanta and Neural Labs**.
 
+### My work
+
+🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
+<!-- OR -->
+🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
+
+<!-- TODO: Update at the end of every day with your  -->
+🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
+
+👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+
+### Interested ?
+
+📫 Reach me on **mokuaenock0@gmail.com**
+
+<br />
+
+<!--
+  -- SECTION: MY EXPERIENCE
+  --
+  -->
+
+<h1>My experience</h1>
+
+<!-- EXPERIENCE I -->
+<h2 align="left">Project Kujali</h2>
+
+<p align="right"><b>2023</b></p>
+
+<p>
+  Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
+</p>
+<p>
+  <!-- Add summary of your own contributions -->
+  I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
+</p>
+<br/>
+
+<!-- Link in this table your actual contributions -->
+### My contributions
+
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
+| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
+
+
 <h2 style="color:green"><img src="/hammer-and-wrench-objects.gif" width="35" height="35"/> My tools of trade</h2>
 
 #### Languages and Modules
