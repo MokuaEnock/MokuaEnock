@@ -2,14 +2,25 @@
 
 ![Viewers](https://gpvc.arturio.dev/MokuaEnock)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=Full-stack+development;Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=Full-stack+web+development;Machine+Learning)](https://git.io/typing-svg)
 
 <h2 style="color:green"><img src="/fire.gif" width="35" height="35"/> My streak stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MokuaEnock&theme=merko)](https://git.io/streak-stats)
 
-<h2 style="color:green"><img src="/hammer-and-wrench-objects.gif" width="35" height="35"/> My tools of trade</h2>
+<h2 style="color:green"><img src="/hammer-and-wrench-objects.gif" width="35" height="35"/> Overview</h2>
 
+💬 I'm an expert in **software engineering**
+
+📝 I'm always interested in anything machine learning especially Natural Language Processing
+
+📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+
+📄 Know about my experiences [through my CV](about/resume.md)
+
+🌱 I’m currently developing **open-source software for iTalanta and Neural Labs**.
+
+<h2 style="color:green"><img src="/hammer-and-wrench-objects.gif" width="35" height="35"/> My tools of trade</h2>
 
 #### Languages and Modules
 
