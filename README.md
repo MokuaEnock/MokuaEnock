@@ -14,8 +14,6 @@
 
 📝 I'm always interested in anything machine learning especially Natural Language Processing
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
-
 📄 Know about my experiences [through my CV](about/resume.md)
 
 🌱 I’m currently developing **open-source software for iTalanta and Neural Labs**.
