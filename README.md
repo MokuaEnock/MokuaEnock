@@ -10,13 +10,11 @@
 
 <h2 style="color:green"><img src="/hammer-and-wrench-objects.gif" width="35" height="35"/> Overview</h2>
 
-💬 I'm an expert in **software engineering**
+💬 I'm a **Software engineer** and **Machine Learning Engineer**
 
 📝 I'm always interested in anything machine learning especially Natural Language Processing
 
-📄 Know about my experiences [through my CV](about/resume.md)
-
-🌱 I’m currently developing **open-source software for iTalanta and Neural Labs**.
+🌱 I’m currently developing **open-source software for Insunity and Neural Labs**.
 
 ### My work
 
