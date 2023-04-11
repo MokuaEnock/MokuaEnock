@@ -2,7 +2,7 @@
 
 ![Viewers](https://gpvc.arturio.dev/MokuaEnock)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=Full-stack+web+development;Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=Full-stack+development;Machine+Learning)](https://git.io/typing-svg)
 
 <h2 style="color:green"><img src="/fire.gif" width="35" height="35"/> My streak stats</h2>
 
@@ -18,16 +18,16 @@
 
 ### My work
 
-🔭 I’m currently working on  
+🔭 I’m currently working on
 <!-- OR -->
-🔭 I’m currently working on  
+🔭 I’m currently working on
 
 <!-- TODO: Update at the end of every day with your  -->
-🤝 About to score  
+🤝 About to score
 
-👨‍💻 Review my projects at  
+👨‍💻 Review my projects at
 
-### Interested ?
+### Interested?
 
 📫 Reach me on **mokuaenock0@gmail.com**
 
@@ -49,7 +49,7 @@
   Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
 </p>
 <p>
-  <!-- Add summary of your own contributions -->
+  <!-- Add a summary of your own contributions -->
   I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
 </p>
 <br/>
