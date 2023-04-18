@@ -32,6 +32,40 @@
 <details open>
 <summary><h2  style="color:#8BE616FF">💫 About Me</h2></summary>
 
-<p>I specialize in React and Ruby, with extensive experience in developing web applications and back-end systems. Additionally, I have a strong background in machine learning engineering, having worked on various projects ranging from natural language processing to computer vision. My skills include data analysis, deep learning, and neural network design. I am committed to delivering high-quality code that meets both client and user needs while staying up-to-date with the latest technologies and best practices.</p>
+<p>I specialize in building solutions and writing code is just a means to the end.</p>
 
  </details>
+
+<details open>
+  <summary><h2 style="color:#8BE616FF">📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+
+  </p>
+
+<a href="https://github.com/MokuaEnock?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+</details>
+
+<details open>
+  <summary><h2 style="color:#8BE616FF">📕 Top Projects I've Contributed To</h2></summary>
+
+  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <p align="left">
+    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+
+</details>
+
+<details open>
+  <summary><h2 style="color:#8BE616FF">💼 Top Organizations I've Worked with</h2></summary>
+
+  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <p align="left">
+    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+
+</details>
+
+
