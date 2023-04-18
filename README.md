@@ -1,4 +1,4 @@
-<h2 style="color:green"><img src="/hey.gif" width="30" height="30"/> <strong>Jambo</strong> Welcome to Enock' profile</h2>
+<h2 style="color:green;"><img src="/hey.gif" width="30" height="30"/> <strong>Jambo</strong> Welcome to Enock' profile</h2>
 
 ![Viewers](https://gpvc.arturio.dev/MokuaEnock)
 
