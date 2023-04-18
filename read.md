@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a software engineer, I specialize in React and Ruby, with extensive experience in developing web applications and back-end systems. Additionally, I have a strong background in machine learning engineering, having worked on various projects ranging from natural language processing to computer vision. My skills include data analysis, deep learning, and neural network design. I am committed to delivering high-quality code that meets both client and user needs while staying up-to-date with the latest technologies and best practices
+As a software engineer, I specialize in React and Ruby, with extensive experience in developing web applications and back-end systems. Additionally, I have a strong background in machine learning engineering, having worked on various projects ranging from natural language processing to computer vision. My skills include data analysis, deep learning, and neural network design. I am committed to delivering high-quality code that meets both client and user needs while staying up-to-date with the latest technologies and best practices.
 
 
 ## 🌐 Socials:
