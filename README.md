@@ -22,8 +22,8 @@
 <!-- OR -->
 🔭 I’m currently working on
 
-<!-- TODO: Update at the end of every day with your  -->
-🤝 About to score
+<!-- TODO: Update at the e
+
 
 👨‍💻 Review my projects at
 
