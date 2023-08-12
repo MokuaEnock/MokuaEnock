@@ -1,8 +1,3 @@
-<h1 align="center" style="color:#8BE616FF"><img src="/hey.gif" width="40" height="40"/> <strong>Jambo</strong> I am Enock Mokua</h1>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=32&pause=1000&color=8BE616&center=true&vCenter=true&width=600&lines=Full-stack+web+and+app+development;Machine+learning+;Always+learning" alt="Typing SVG" /></a>
-</p>
 
 <!-- Social icons section -->
 <!-- <p align="center">
