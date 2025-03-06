@@ -18,7 +18,6 @@ I specialize in **data science, machine learning, AI, and ETL pipelines**, with 
 ## 📈 **Current Focus**  
 🔬 NLP & embeddings for AI search 🔹 Data-driven decision-making 🔹 AI for agriculture & logistics 🔹 Building scalable data platforms  
 
-📫 **Let’s Connect!**   
-💼 [LinkedIn](https://www.linkedin.com/in/enock-mokua/) | 📝 [Twitter](https://twitter.com/enockmokua)  
+
 
 
